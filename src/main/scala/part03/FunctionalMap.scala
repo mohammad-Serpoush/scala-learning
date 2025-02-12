@@ -1,6 +1,6 @@
 package part03
 
-object Map extends App {
+object FunctionalMap extends App {
 
   var nums: List[Int] = List(1, 2, 3, 4)
 
